@@ -57,7 +57,7 @@ body {
 }
 
 .bg-black {
-    background: #000;
+    background: #000 !important;
 }
 
 .overlay {
@@ -68,6 +68,11 @@ body {
 	position: fixed;
 	background: white;
 	z-index: -1;
+}
+
+a.category-badge > span.badge:hover {
+    background: #212529 !important;
+    color: #fff !important;
 }
 
 /* -------------------------------- Media Queries */
@@ -94,11 +99,12 @@ body {
     }
 }
 
-/* Add padding-top to navbar-collapse on mobile screens */
+/* pad the top a bit when navbar is collapsed on mobile */
 @media (max-width: 991px) {
     .header-container {
         padding-top: 116px;
     }
+
     body {
         height: calc(100vh - 116px);
     }
