@@ -1,0 +1,227 @@
+[33mcommit d1bd0144cdd6aa41ef17ab1f03ddcdfcd9994c21[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Thu Jan 14 19:10:26 2021 +0000
+
+    Create checkout app, write models and make migrations
+
+[33mcommit 014b0cf5e9a886248a3f5aacf312ad5084f1fe13[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Thu Jan 14 19:01:39 2021 +0000
+
+    Finish creating toasts to enhance shopping cart view
+
+[33mcommit 6b99cbb235314e7e0c1b3eb91aad86c11eaeff96[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Thu Jan 14 18:30:20 2021 +0000
+
+    Write logic for add, update and remove toasts
+
+[33mcommit 76c48a6fa96c725b7de50765d3110002bbd9e1d9[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Thu Jan 14 18:02:24 2021 +0000
+
+    Add functionality for add to bag toasts
+
+[33mcommit 44f1b0c5de7ddda7795d723b7e4b59d9d2c2c211[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Thu Jan 14 06:06:59 2021 +0000
+
+    Add subtotal functionality to bag app
+
+[33mcommit a246a9a1288a928a595f35216bfcd9aa07213087[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Thu Jan 14 05:27:41 2021 +0000
+
+    Add adjust bag quantity functionality
+
+[33mcommit 86a8e2a2f920be47828c7d63a722e5429170af63[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Wed Jan 13 19:45:54 2021 +0000
+
+    Repair quantity boxes in bag
+
+[33mcommit cf2166e6f40bf166273291739eaeb5ea9b3019ad[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Wed Jan 13 19:24:30 2021 +0000
+
+    Write javascript logic for quantity incrementor
+
+[33mcommit bd9196b5e4fed4a8545db3e9b23741817af48bc7[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Wed Jan 13 19:15:52 2021 +0000
+
+    Finish writing logic for product sizes
+
+[33mcommit b1c3e43e59e2fa0d306ce431a1f4f00e48de4f60[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Tue Jan 12 22:44:11 2021 +0000
+
+    Add sizes to models.py and create size selector for products template
+
+[33mcommit a3455ef04c884cee8a6d27c430e4ed886d52f646[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Tue Jan 12 19:46:26 2021 +0000
+
+    Update settings.py to repair shopping cart error
+
+[33mcommit a35bbc633e329e312fcde3a5ce4c4d4afea3cb33[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Tue Jan 12 17:37:31 2021 +0000
+
+    Update context processor
+
+[33mcommit 2a90744f392da6a32a70825989fc0f927f582b3c[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Tue Jan 12 17:32:08 2021 +0000
+
+    Add 'add to bag' functionality
+
+[33mcommit 09050d0dcdcb210d29ddf450c23e1985c9e51084[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Mon Jan 11 21:22:20 2021 +0000
+
+    Add bag context and delivery logic
+
+[33mcommit 59bad0f7790240b4f9fa3e09233859b19e904403[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Mon Jan 11 20:09:44 2021 +0000
+
+    Add shopping bag app with content
+
+[33mcommit 620410ecede48c1f371bfbb891cba9c1e1213cd3[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Mon Jan 11 19:41:23 2021 +0000
+
+    Write new script to implement dropdown sorting and add scrollspy
+
+[33mcommit b777af7facc356cdeaf14a22fae99b48ed36e633[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Mon Jan 11 19:23:54 2021 +0000
+
+    Add sort select box and category sorting
+
+[33mcommit f67a34de6daf4120520b87ae926f12870d441d92[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Mon Jan 11 18:59:42 2021 +0000
+
+    Add sorting functionality to main navigation
+
+[33mcommit 38fc9bd90c6a3b624eb4358ed562b4ff3d0ab618[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Mon Jan 11 18:49:59 2021 +0000
+
+    Add category filtering functionality to nav dropdown
+
+[33mcommit f07a35488862c54f1b6a63a67238e473119bb55c[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Fri Jan 8 19:03:57 2021 +0000
+
+    Set up search functionality
+
+[33mcommit 4fa06395a81be922d8e55d8fc2c8e02cc3892562[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Fri Jan 8 17:35:43 2021 +0000
+
+    Add product details functionality and mobile media queries
+
+[33mcommit b8cc8c0d1cfccda70ddfb52cb47ecbeee0b57eeb[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Fri Jan 8 16:13:34 2021 +0000
+
+    Edit products template to improve layout and visibility
+
+[33mcommit cdc93176a374814f2444a79b373328850ae0fe07[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Fri Jan 8 14:50:13 2021 +0000
+
+    Upload missing photos in media folder
+
+[33mcommit 15ec96249f4a6d0061e03c774d187c814295f620[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Fri Jan 8 14:35:07 2021 +0000
+
+    Update categories spelling in models.py
+
+[33mcommit fb1caf38f879df2127863b1a2ce33db5d246618a[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Tue Jan 5 19:26:10 2021 +0000
+
+    Customize admin
+
+[33mcommit 74b78d3723f1038d79cd246fa12bc2b626735307[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Tue Jan 5 19:20:02 2021 +0000
+
+    Add products and categories to troubleshoot error
+
+[33mcommit 77e944154d055ed1a3f9964946ed10a4442d769e[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Sun Jan 3 21:28:25 2021 +0000
+
+    Add products views and templates
+
+[33mcommit ca8b9268613d8a1214e7a0105246fd5784eb3519[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Sun Jan 3 20:44:22 2021 +0000
+
+    Customize admin
+
+[33mcommit d1f9d82fd7a8eb8485c05a23d34c04df54aceabf[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Sun Jan 3 20:06:09 2021 +0000
+
+    Add products app, models and fixtures
+
+[33mcommit 5151a9ce23e99e92b7881df28f4992ca38c54788[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Sun Jan 3 03:33:04 2021 +0000
+
+    Add mobile header and main navbar
+
+[33mcommit d7f09f8742913d4bbad0ba61ca992aab6241f280[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Sun Jan 3 02:59:36 2021 +0000
+
+    Add styles by updating base.css and setting up media
+
+[33mcommit 16c924a386897071c0dad14109a80f63185941b3[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Sat Jan 2 21:30:43 2021 +0000
+
+    Add homepage content
+
+[33mcommit 4ff9aa74a2568c71905c9e171369f577a17d85e4[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Sat Jan 2 21:26:44 2021 +0000
+
+    Add home app and templates
+
+[33mcommit 795f0dea830b25f668d2a1fb4fdbdc29a8520936[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Sat Jan 2 21:19:15 2021 +0000
+
+    Add blocks to base template
+
+[33mcommit 6993f23bb4eabf037f9b83d6998c2bfa3593f5fd[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Sat Jan 2 21:14:54 2021 +0000
+
+    Add allauth templates and create base template
+
+[33mcommit cc20853bf0f4f4f59856a17eee96d5ed3466c372[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Sat Jan 2 20:58:57 2021 +0000
+
+    Setup and test allauth
+
+[33mcommit d8398813dc8c24018703183984a8a6143bfd4e0e[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Sat Jan 2 20:22:38 2021 +0000
+
+    Initial commit
+
+[33mcommit fd419dba2bc7b5c70e748300779286998decb0dd[m
+Author: Alissa Troiano <alissatroianonyc@gmail.com>
+Date:   Sat Jan 2 15:07:20 2021 -0500
+
+    Initial commit
